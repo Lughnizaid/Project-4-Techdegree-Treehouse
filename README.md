@@ -16,4 +16,4 @@
 </ul>
 <br>
 <h3>Conclusion</h3>
-<p>After completing the project, I have the skills of Sass micro-framework to quickly prototype other websites and build a "mobile-first" approach. This project makes me realized that SASS help the developer to code CSS in an efficient and smarter way. SASS also help the develoepr to organize the CSS while building bigger project</p>.
+<p>After completing the project, I have the skills of Sass micro-framework to quickly prototype other websites and build a "mobile-first" approach. This project makes me realized that SASS help the developer to code CSS in an efficient and smarter way. SASS also help the developer to organize the CSS while building bigger project</p>.
